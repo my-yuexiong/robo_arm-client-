@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/logo (1).png</file>
+        <file>res/logo.png</file>
+        <file>res/logo1.png</file>
+        <file>res/logo11.png</file>
+        <file>res/logo12.png</file>
+        <file>res/logo13.png</file>
+        <file>res/robocon.png</file>
+        <file>res/R-C.jpg</file>
+    </qresource>
+</RCC>

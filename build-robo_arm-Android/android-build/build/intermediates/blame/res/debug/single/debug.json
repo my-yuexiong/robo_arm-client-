@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\QT_for_android\\robo_arm\\build-robo_arm-Android\\android-build\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "E:\\QT_for_android\\robo_arm\\build-robo_arm-Android\\android-build\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\QT_for_android\\robo_arm\\build-robo_arm-Android\\android-build\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "E:\\QT_for_android\\robo_arm\\build-robo_arm-Android\\android-build\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "E:\\QT_for_android\\robo_arm\\build-robo_arm-Android\\android-build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\QT_for_android\\robo_arm\\build-robo_arm-Android\\android-build\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\QT_for_android\\robo_arm\\build-robo_arm-Android\\android-build\\build\\intermediates\\res\\merged\\debug\\layout_splash.xml.flat",
+        "source": "D:\\APP\\QT5.14\\5.14.2\\android\\src\\android\\java\\res\\layout\\splash.xml"
+    }
+]
